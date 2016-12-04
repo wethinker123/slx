@@ -8,3 +8,5 @@ that you should not to stay up, it will destroy all your arrangement for tomorro
 time today, it hard for your health! weThinker！
 心外无物，心外无理。
 心中有道，念中无邪。
+我会开始的，等我完成git，之后我将实现数据库的简单使用，之后将数据库和邮件系统简单联系，之后我会尝试多线程
+之后组合成合适的一个系统，然后提交
